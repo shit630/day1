@@ -1,0 +1,1 @@
+Print all even number in Array
